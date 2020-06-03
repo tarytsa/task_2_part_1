@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\HW_5\mirror_Word\bin\Debug\mirror_Word.exe.config
+C:\Users\acer\source\repos\HW_5\mirror_Word\bin\Debug\mirror_Word.exe
+C:\Users\acer\source\repos\HW_5\mirror_Word\bin\Debug\mirror_Word.pdb
+C:\Users\acer\source\repos\HW_5\mirror_Word\obj\Debug\mirror_Word.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\HW_5\mirror_Word\obj\Debug\mirror_Word.exe
+C:\Users\acer\source\repos\HW_5\mirror_Word\obj\Debug\mirror_Word.pdb
+C:\Users\acer\source\repos\HW_5\mirror_Word\obj\Debug\mirror_Word.csprojAssemblyReference.cache
